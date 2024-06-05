@@ -66,8 +66,9 @@ Navigate to [http://localhost:5000/](http://localhost:5000/) on your browser to 
 ### Screenshots
 ![Screenshot](https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/LOGIN.png?raw=true)
 
+![צילום מסך 2024-06-05 093841](https://github.com/yahav123456/Python_Monitoring/assets/166650066/449c25f9-11da-4eb5-a553-ebd8e1ea5659)
 
-![Screenshot](https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/dashborad.png?raw=true)
+![צילום מסך 2024-06-05 094001](https://github.com/yahav123456/Python_Monitoring/assets/166650066/0cd8f82d-30ae-4a55-acac-c1c17b3343d0)
 
 
 
